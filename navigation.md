@@ -29,7 +29,7 @@
 [Forum](forum.md)
 
 
-[gimmick:theme (inverse: false)](lumen)
+[gimmick:theme (inverse: true)](cosmo)
 
 <!-- counter pixel for counting visitors -->
 <!-- <img src="http://stats.markdown.io/mdwiki_info.gif" style="display:none;"/> -->
