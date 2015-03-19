@@ -7,11 +7,15 @@
   * [Quickstart](quickstart.md)
   * [Layout](layout.md)
   * [FAQ](faq.md)
+  * [utField](faq.md)
+  * [utAttribute](faq.md)
+  * [acEnumerator](faq.md)
+ 
+
+
   - - - -
   * # Advanced
   * [Customizing](customizing.md)
-
-[Gimmicks](gimmicks.md)
 
 [Tutorials]()
 
@@ -22,6 +26,6 @@
   * [Use with Dropbox](tutorials/dropbox.md)
   * [Set up MDwiki on IIS](tutorials/iis/iis.md)
 
-[gimmick:theme (inverse: true)](cosmo)
+[gimmick:theme (inverse: true)](readable)
 
 
