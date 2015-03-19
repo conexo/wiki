@@ -12,7 +12,6 @@
   * [acEnumerator](faq.md)
  
 
-
   - - - -
   * # Advanced
   * [Customizing](customizing.md)
@@ -26,6 +25,6 @@
   * [Use with Dropbox](tutorials/dropbox.md)
   * [Set up MDwiki on IIS](tutorials/iis/iis.md)
 
-[gimmick:theme (inverse: false)](readable)
+[gimmick:theme (inverse: false)](cosmo)
 
 
