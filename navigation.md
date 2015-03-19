@@ -1,4 +1,4 @@
-# MDwiki
+# Curió
 
 [About](index.md)
 
