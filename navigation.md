@@ -1,4 +1,4 @@
-# Curió
+# Curió Framework
 
 [About](index.md)
 
@@ -22,15 +22,6 @@
   * [Use with Dropbox](tutorials/dropbox.md)
   * [Set up MDwiki on IIS](tutorials/iis/iis.md)
 
-[Examples](examples.md)
-[Download](download.md)
-[Contribute](contribute/index.md)
-[Blog](blog.md)
-[Forum](forum.md)
-
-
 [gimmick:theme (inverse: true)](cosmo)
 
-<!-- counter pixel for counting visitors -->
-<!-- <img src="http://stats.markdown.io/mdwiki_info.gif" style="display:none;"/> -->
 
