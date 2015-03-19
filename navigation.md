@@ -1,17 +1,14 @@
-# CurioTM Framework
+# MDwiki
 
 [About](index.md)
 
 [Docs]()
+
   * [Quickstart](quickstart.md)
   * [Layout](layout.md)
   * [FAQ](faq.md)
-
-* # Developer Environment
-  * [Setup](customizing.md)
-
   - - - -
-  * # Modeling
+  * # Advanced
   * [Customizing](customizing.md)
 
 [Gimmicks](gimmicks.md)
@@ -33,3 +30,7 @@
 
 
 [gimmick:theme (inverse: true)](cosmo)
+
+<!-- counter pixel for counting visitors -->
+<!-- <img src="http://stats.markdown.io/mdwiki_info.gif" style="display:none;"/> -->
+
